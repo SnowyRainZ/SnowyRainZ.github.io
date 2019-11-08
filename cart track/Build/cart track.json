@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "cart bro's 2",
+"productVersion": "1.0",
+"dataUrl": "cart track.data.unityweb",
+"wasmCodeUrl": "cart track.wasm.code.unityweb",
+"wasmFrameworkUrl": "cart track.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.2.1f1"
+}
